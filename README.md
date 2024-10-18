@@ -1,10 +1,9 @@
+# 告示
+原作者已离开人世，此仓库用作备份
+
 # 来源
 
 [https://github.com/AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage)
-
-原作者已离开人世，此仓库用作备份
-
-lxyddice的个人主页作品
 
 如果你喜欢，可以fork到你的仓库里改改自己用~
 
